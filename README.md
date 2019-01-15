@@ -1,7 +1,5 @@
-Identity by HTML5 UP
-html5up.net | @ajlkn
+Identity by [HTML5 UP](https://html5up.net/) | ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 Just a fun little profile/card-style template I whipped up during a break between major
 projects. Minimal, responsive, and powered by Responsive Tools + Sass. Enjoy :)
@@ -11,17 +9,16 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+## Credits:
 
+### Demo Images
 
-Credits:
+[Unsplash](https://unsplash.com/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Icons
 
-	Icons:
-		Font Awesome (fontawesome.io)
+[Font Awesome](https://fontawesome.com/)
 
-	Other:
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Other
+
+[Responsive Tools](https://github.com/ajlkn/responsive-tools/)
